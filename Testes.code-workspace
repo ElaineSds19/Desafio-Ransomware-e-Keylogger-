@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": ".vscode",
+			"path": "../.vscode"
+		}
+	],
+	"settings": {
+		"python-envs.pythonProjects": [
+			{
+				"path": "test.py",
+				"envManager": "ms-python.python:venv",
+				"packageManager": "ms-python.python:pip"
+			}
+		]
+	}
+}

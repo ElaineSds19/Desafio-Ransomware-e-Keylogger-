@@ -1,0 +1,13 @@
+{
+    "recommendations": [
+        "ms-python.python"
+    ]
+}
+
+Get-ChildItem
+# ou
+ls
+
+# Exibe a lista de arquivos e pastas no diretório atual
+
+
